@@ -29,14 +29,17 @@ nav a{
 .git{
     background-color: rgb(0, 183, 255);
     padding: 7px 14px;
+    border-radius:10%;
 }
 .signup{
     background-color: rgb(0, 26, 255);
     padding: 7px 14px;
+    border-radius:10%;
 }
 .login{
-    background-color: #00ff40;
+    background-color:#47e04f;
     padding: 7px 14px;
+    border-radius:10%;
 }
 #social{
     float: right;
